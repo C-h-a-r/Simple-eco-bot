@@ -2,11 +2,11 @@
 "prefix": "PREFIX_HERE",
 
 "item1name": "ITEM_1_NAME",
-"item1price": "ITEM_1_NAME,
+"item1price": "ITEM_1_NAME",
 
 "item2name": "ITEM_2_NAME",
 "item2price": "ITEM_2_NAME",
 
 "item3name": "ITEM_3_NAME",
-"item3price": "ITEM_3_NAME
+"item3price": "ITEM_3_NAME"
 }
